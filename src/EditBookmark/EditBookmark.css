@@ -1,0 +1,8 @@
+.edit-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.edit-form > label {
+  text-align: left;
+}
